@@ -104,5 +104,15 @@
 <thumbnail>http://103.250.10.26/image/contenticons/55469_large</thumbnail>
 </item>
 -------------------------------------------------------
+<item>
+<title> HBO</title>
+<link>$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres>$pyFunction:vipracing.decrypt_vipracing('http://www.iguide.to/view/1/HBO',False,False)</expres>
+<page></page>
+</regex>
+<thumbnail></thumbnail>
+</item>
 --------------------------------------------------------
 </items>
