@@ -9,20 +9,28 @@
 	<thumbnail></thumbnail>
 	<items>
 -------------------------------------------------------
+<subchannel> 
+<name>[COLOR yellow]CNN[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<subitems>
 <item>
-<title>CNN</title>
+<title>link1</title>
 <sportsdevil>http://www.shadownet.biz/channels/usa/cnn.html</sportsdevil>
 <referer>http://www.shadownet.biz</referer>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1wfiomuoDjWVbFhtJk0urSezvgqyIt6g3idD50HWIB_khMtGqJtCH-Is</thumbnail>
 </item>
 -------------------------------------------------------
 <item>
-<title>CNN - link 2</title>
+<title>link 2</title>
 <sportsdevil>http://www.streamlive.to/embed/68967</sportsdevil>
 <referer>http://www.streamlive.to</referer>
 <thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1wfiomuoDjWVbFhtJk0urSezvgqyIt6g3idD50HWIB_khMtGqJtCH-Is</thumbnail>
 </item>
 -------------------------------------------------------
+</subitems>
+	
+</subchannel> 
+
 <item>
 <title>CNN_International</title>
 <sportsdevil>http://www.shadownet.biz/channels/usa/cnn-international.html</sportsdevil>
