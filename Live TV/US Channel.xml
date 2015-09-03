@@ -1,0 +1,221 @@
+<code>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+########################################################
+#
+<channels>
+
+<channel>        
+	<name>[COLOR yellow]News[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>CNN</title>
+<sportsdevil>http://www.shadownet.biz/channels/usa/cnn.html</sportsdevil>
+<referer>http://www.shadownet.biz</referer>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1wfiomuoDjWVbFhtJk0urSezvgqyIt6g3idD50HWIB_khMtGqJtCH-Is</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>CNN - link 2</title>
+<sportsdevil>http://www.streamlive.to/embed/68967</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQE1wfiomuoDjWVbFhtJk0urSezvgqyIt6g3idD50HWIB_khMtGqJtCH-Is</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>CNN_International</title>
+<sportsdevil>http://www.shadownet.biz/channels/usa/cnn-international.html</sportsdevil>
+<referer>http://www.shadownet.biz</referer>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT0zV0xBOTALyYfZTV0UHTJbnuRrzfqV1DCcQwgufkkHj7Z7-RVAUeEw</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>CNN_International - link 2</title>
+<sportsdevil>http://www.streamlive.to/embed/57804</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT0zV0xBOTALyYfZTV0UHTJbnuRrzfqV1DCcQwgufkkHj7Z7-RVAUeEw</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Fox_News</title>
+<sportsdevil>http://www.streamlive.to/embed/68968</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSYv-vozOZXdX2CBw254P4tv3anh8H3r_D4gC8pZTbk-V2Lgv1f3C4e1U0</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>ABC News</title>
+<sportsdevil>http://www.shadownet.biz/channels/usa/abc-news.html</sportsdevil>
+<referer>http://www.shadownet.biz</referer>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT0zV0xBOTALyYfZTV0UHTJbnuRrzfqV1DCcQwgufkkHj7Z7-RVAUeEw</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>MSNBC</title>
+<sportsdevil>http://www.streamlive.to/embed/69024</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSIBPlutiGCBRZT6CB2X4VdGZ7V0v0wiS_apqUSEVYp8b_no7z3pPeCzjs</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>BBC World</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/bbcworld.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail>http://static.bbcverticals.com/wwfeatures/tv/assets/logos/16x9/bbc-america.png</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>EURO News</title>
+<sportsdevil>http://www.malayalamtvhd.in/2015/07/euronews.html</sportsdevil>
+<referer>http://www.malayalamtvhd.in/</referer>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20091203174125/logopedia/images/thumb/d/d5/Euronews_logo_2008.svg/200px-Euronews_logo_2008.svg.png</thumbnail>
+</item>
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR white]Animation[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>Cartoon_Network</title>
+<sportsdevil>http://www.streamlive.to/embed/71632</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20111202140403/logopedia/images/thumb/e/ee/Cartoon_Network_2010.svg/230px-Cartoon_Network_2010.svg.png</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Disney_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/38804</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20150630045454/logopedia/images/thumb/0/01/DisneyXD_2015-01.svg/200px-DisneyXD_2015-01.svg.png</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Univision_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/69932</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRgpIrSnenw-RnHv64YfZipZrgq7NvwLPqgWo_DgtHgMtHfEqBPCqtwkw</thumbnail>
+</item>
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR lime]Live Sport[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+<item>
+<title>NFL_Network</title>
+<sportsdevil>http://www.streamlive.to/embed/68875</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHh1sd4U1bjft_G5EmF5FraDDjTcVBXHvg9jHnVlA1OFdFL3YxgYzbYtvb</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>ESPN_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/48051</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcShRs5Ofap7VYLL51qL6PV8co2F9KEgqSBkRiQb56c52u__JzOYLh4WXq4</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>ESPN 2</title>
+<sportsdevil>http://www.shadownet.biz/channels/usa/espn2-s2.html</sportsdevil>
+<referer>http://www.shadownet.biz</referer>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT0zV0xBOTALyYfZTV0UHTJbnuRrzfqV1DCcQwgufkkHj7Z7-RVAUeEw</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>ESPN 3</title>
+<sportsdevil>http://www.shadownet.biz/channels/usa/espn3.html</sportsdevil>
+<referer>http://www.shadownet.biz</referer>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT0zV0xBOTALyYfZTV0UHTJbnuRrzfqV1DCcQwgufkkHj7Z7-RVAUeEw</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>CNN_International</title>
+<sportsdevil>http://www.shadownet.biz/channels/usa/cnn-international.html</sportsdevil>
+<referer>http://www.shadownet.biz</referer>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRT0zV0xBOTALyYfZTV0UHTJbnuRrzfqV1DCcQwgufkkHj7Z7-RVAUeEw</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Fox Sport 1_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/71631</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20130305210718/logopedia/images/thumb/4/4d/Fox_Sports_1.png/200px-Fox_Sports_1.png</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Sky Sport 1_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/68713</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130812015708/logopedia/images/thumb/7/7e/SkySports1.svg/300px-SkySports1.svg.png</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Sky Sport 2_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/68424</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>http://img1.wikia.nocookie.net/__cb20130812015330/logopedia/images/thumb/3/3c/SkySports2.svg/300px-SkySports2.svg.png</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Sky Sport 3_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/68714</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>http://img3.wikia.nocookie.net/__cb20130812015947/logopedia/images/thumb/f/fb/SkySports3.svg/300px-SkySports3.svg.png</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Sky Sport 4_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/68715</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>http://img4.wikia.nocookie.net/__cb20130812020322/logopedia/images/thumb/c/c5/SkySports4.svg/300px-SkySports4.svg.png</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Sky Sport 5_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/68716</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail>http://img2.wikia.nocookie.net/__cb20140610144330/logopedia/images/thumb/2/21/Sky_Sports_5.svg/300px-Sky_Sports_5.svg.png</thumbnail>
+</item>
+-------------------------------------------------------
+<item>
+<title>Disney_HD</title>
+<sportsdevil>http://www.streamlive.to/embed/38804</sportsdevil>
+<referer>http://www.streamlive.to</referer>
+<thumbnail></thumbnail>
+</item>
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR red]......[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+
+-------------------------------------------------------
+-------------------------------------------------------
+-------------------------------------------------------
+</items>
+</channel>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+<channel>        
+	<name>[COLOR blue].....[/COLOR]</name>
+	<thumbnail></thumbnail>
+	<items>
+-------------------------------------------------------
+-------------------------------------------------------
+</items>
+</channel>
+--------------------------------------------------------
+</channels>
+</Code>
